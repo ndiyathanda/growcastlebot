@@ -1,2 +1,2 @@
 # growcastlebot
-bluestacks maximize. You need 1920x1080 monitor. Drake and wave mode. Settings in const
+bluestacks maximize. You need 1920x1080 monitor. Drake and wave mode. Settings in const. Hold C for exit
