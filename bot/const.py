@@ -1,1 +1,3 @@
-wave_time=50
+wave_time=35
+botmode=0
+cast_interval=0
