@@ -1,0 +1,194 @@
+[01-28:12:40:32]Bot starting in 2 resolution mode
+[01-28:12:40:37]Starting wave
+[01-28:12:40:39]Click session done
+[01-28:12:40:41]Click session done
+[01-28:12:40:41]Script terminated by user
+[01-28:12:41:12]Bot starting in 1 resolution mode
+[01-28:12:41:16]Starting wave
+[01-28:12:41:18]Click session done
+[01-28:12:41:20]Click session done
+[01-28:12:41:23]Click session done
+[01-28:12:41:25]Click session done
+[01-28:12:41:27]Click session done
+[01-28:12:41:29]Click session done
+[01-28:12:41:31]Click session done
+[01-28:12:41:33]Click session done
+[01-28:12:41:35]Click session done
+[01-28:12:41:37]Click session done
+[01-28:12:41:39]Click session done
+[01-28:12:41:42]Click session done
+[01-28:12:41:44]Click session done
+[01-28:12:41:44]Script terminated by user
+[01-28:14:37:21]Bot starting in 1 resolution mode
+[01-28:14:37:25]Starting wave
+[01-28:14:37:27]Click session done
+[01-28:14:37:30]Click session done
+[01-28:14:37:30]Script terminated by user
+[01-28:14:37:43]Bot starting in 1 resolution mode
+[01-28:14:37:47]Starting drake
+[01-28:14:37:52]Click session done
+[01-28:14:37:54]Click session done
+[01-28:14:37:56]Click session done
+[01-28:14:37:58]Click session done
+[01-28:14:38:00]Click session done
+[01-28:14:38:03]Click session done
+[01-28:14:38:05]Click session done
+[01-28:14:38:07]Click session done
+[01-28:14:38:09]Click session done
+[01-28:14:38:11]Click session done
+[01-28:14:38:13]Click session done
+[01-28:14:38:15]Click session done
+[01-28:14:38:17]Click session done
+[01-28:14:38:20]Click session done
+[01-28:14:38:23]Click session done
+[01-28:14:38:25]Click session done
+[01-28:14:38:26]Game ended restarting....
+[01-28:14:38:26]Bot starting in 1 resolution mode
+[01-28:14:38:29]Starting drake
+[01-28:14:38:34]Click session done
+[01-28:14:38:36]Click session done
+[01-28:14:38:36]Script terminated by user
+[01-28:14:41:19]Bot starting in 1 resolution mode
+[01-28:14:41:24]Starting drake
+[01-28:14:41:28]Click session done
+[01-28:14:41:31]Click session done
+[01-28:14:41:33]Click session done
+[01-28:14:41:35]Click session done
+[01-28:14:41:37]Click session done
+[01-28:14:41:39]Click session done
+[01-28:14:41:41]Click session done
+[01-28:14:41:43]Click session done
+[01-28:14:41:45]Click session done
+[01-28:14:41:48]Click session done
+[01-28:14:41:50]Click session done
+[01-28:14:41:52]Click session done
+[01-28:14:41:54]Click session done
+[01-28:14:41:56]Click session done
+[01-28:14:41:58]Click session done
+[01-28:14:41:58]Game ended restarting....
+[01-28:14:41:59]Bot starting in 1 resolution mode
+[01-28:14:42:02]Starting drake
+[01-28:14:42:06]Click session done
+[01-28:14:42:09]Click session done
+[01-28:14:42:11]Click session done
+[01-28:14:42:13]Click session done
+[01-28:14:42:15]Click session done
+[01-28:14:42:17]Click session done
+[01-28:14:42:19]Click session done
+[01-28:14:42:21]Click session done
+[01-28:14:42:23]Click session done
+[01-28:14:42:26]Click session done
+[01-28:14:42:28]Click session done
+[01-28:14:42:30]Click session done
+[01-28:14:42:32]Click session done
+[01-28:14:42:34]Click session done
+[01-28:14:42:36]Click session done
+[01-28:14:42:36]Script terminated by user
+[01-28:14:44:13]Bot starting in 1 resolution mode
+[01-28:14:44:15]Starting drake
+[01-28:14:44:19]Click session done
+[01-28:14:44:22]Click session done
+[01-28:14:44:22]Script terminated by user
+[01-28:14:44:28]Bot starting in 1 resolution mode
+[01-28:14:44:31]Starting drake
+[01-28:14:44:35]Click session done
+[01-28:14:44:38]Click session done
+[01-28:14:44:38]Script terminated by user
+[01-28:14:44:45]Bot starting in 1 resolution mode
+[01-28:14:44:47]Starting drake
+[01-28:14:44:52]Click session done
+[01-28:14:44:54]Click session done
+[01-28:14:44:54]Script terminated by user
+[01-28:14:44:58]Bot starting in 1 resolution mode
+[01-28:14:45:00]Starting drake
+[01-28:14:45:04]Click session done
+[01-28:14:45:07]Click session done
+[01-28:14:45:07]Script terminated by user
+[01-28:14:45:51]Bot starting in 2 resolution mode
+[01-28:14:45:54]Starting drake
+[01-28:14:45:58]Click session done
+[01-28:14:46:00]Click session done
+[01-28:14:46:02]Click session done
+[01-28:14:46:04]Click session done
+[01-28:14:46:06]Click session done
+[01-28:14:46:08]Click session done
+[01-28:14:46:10]Click session done
+[01-28:14:46:12]Click session done
+[01-28:14:46:14]Click session done
+[01-28:14:46:16]Click session done
+[01-28:14:46:16]Script terminated by user
+[01-28:14:46:26]Bot starting in 2 resolution mode
+[01-28:14:46:29]Starting drake
+[01-28:14:46:33]Click session done
+[01-28:14:46:35]Click session done
+[01-28:14:46:37]Click session done
+[01-28:14:46:39]Click session done
+[01-28:14:46:41]Click session done
+[01-28:14:46:43]Click session done
+[01-28:14:46:45]Click session done
+[01-28:14:46:47]Click session done
+[01-28:14:46:49]Click session done
+[01-28:14:46:51]Click session done
+[01-28:14:46:53]Click session done
+[01-28:14:46:53]Game ended restarting....
+[01-28:14:46:54]Bot starting in 2 resolution mode
+[01-28:14:46:56]Starting drake
+[01-28:14:47:01]Click session done
+[01-28:14:47:03]Click session done
+[01-28:14:47:05]Click session done
+[01-28:14:47:05]Script terminated by user
+[01-28:14:48:39]Bot starting in 2 resolution mode
+[01-28:14:48:42]Starting drake
+[01-28:14:48:46]Click session done
+[01-28:14:48:48]Click session done
+[01-28:14:48:50]Click session done
+[01-28:14:48:52]Click session done
+[01-28:14:48:54]Click session done
+[01-28:14:48:56]Click session done
+[01-28:14:48:58]Click session done
+[01-28:14:49:00]Click session done
+[01-28:14:49:01]Click session done
+[01-28:14:49:03]Click session done
+[01-28:14:49:05]Click session done
+[01-28:14:49:06]Game ended restarting....
+[01-28:14:49:06]Bot starting in 2 resolution mode
+[01-28:14:49:09]Starting drake
+[01-28:14:49:13]Click session done
+[01-28:14:49:15]Click session done
+[01-28:14:49:15]Script terminated by user
+[01-28:14:49:29]Bot starting in 2 resolution mode
+[01-28:14:49:33]Bot starting in 2 resolution mode
+[01-28:14:49:35]Starting drake
+[01-28:14:49:39]Click session done
+[01-28:14:49:42]Click session done
+[01-28:14:49:42]Script terminated by user
+[01-28:14:49:48]Bot starting in 2 resolution mode
+[01-28:14:49:50]Starting drake
+[01-28:14:49:55]Click session done
+[01-28:14:49:57]Click session done
+[01-28:14:49:57]Script terminated by user
+[01-28:14:51:22]Bot starting in 1 resolution mode
+[01-28:14:51:24]Starting drake
+[01-28:14:51:28]Click session done
+[01-28:14:51:31]Click session done
+[01-28:14:51:33]Click session done
+[01-28:14:51:35]Click session done
+[01-28:14:51:35]Script terminated by user
+[01-28:14:51:53]Bot starting in 1 resolution mode
+[01-28:14:51:55]Starting drake
+[01-28:14:51:59]Click session done
+[01-28:14:52:02]Click session done
+[01-28:14:52:04]Click session done
+[01-28:14:52:06]Click session done
+[01-28:14:52:08]Click session done
+[01-28:14:52:10]Click session done
+[01-28:14:52:12]Click session done
+[01-28:14:52:14]Click session done
+[01-28:14:52:17]Click session done
+[01-28:14:52:19]Click session done
+[01-28:14:52:19]Game ended restarting....
+[01-28:14:52:20]Bot starting in 1 resolution mode
+[01-28:14:52:22]Starting drake
+[01-28:14:52:26]Click session done
+[01-28:14:52:29]Click session done
+[01-28:14:52:29]Script terminated by user
